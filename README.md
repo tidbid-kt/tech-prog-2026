@@ -42,7 +42,7 @@
 
 ## БРС
 
-Сводная таблица с баллами скоро появится здесь.
+Сводную таблицу с баллами можно найти здесь: [ссылка](https://docs.google.com/spreadsheets/d/1gNSpeMO6CCfGze7-Jq4ItPj2_QMsexnSHdK-9fl5s1w/edit?usp=sharing).
 
 | Баллы  | Оценка |
 |--------|--------|
