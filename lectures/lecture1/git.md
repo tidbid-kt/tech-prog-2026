@@ -1,6 +1,6 @@
 # Git
 
-Запись лекции 1 будет находиться по [данной ссылке](https://drive.google.com/file/d/119-nZDgYvf7g9EValoZsiHiZghVN0-0v/view?usp=sharing).
+Запись лекции 1 находится [тут](https://drive.google.com/file/d/119-nZDgYvf7g9EValoZsiHiZghVN0-0v/view?usp=sharing).
 
 # Системы контроля версий
 
