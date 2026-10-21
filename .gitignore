@@ -150,3 +150,9 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij
+
+### Генератор лабников ###
+# генератор и шаблоны лабников остаются локально, в репозиторий идут только готовые лабники
+tools/
+__pycache__/
+*.pyc
