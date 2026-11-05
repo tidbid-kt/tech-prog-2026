@@ -3973,7 +3973,7 @@ void visitMerchant(Hero &hero, GameFacade &game) {
 
 } // namespace
 
-int main() {
+int main() try {
     ConsoleView::setupConsole();
 
     std::filesystem::path saveFile = std::filesystem::path("saves") / "heroes.json";
@@ -4007,6 +4007,10 @@ int main() {
             std::cout << "Такого варианта нет\n";
         }
     }
+}
+catch (const std::exception &error) {
+    std::cerr << error.what() << "\n";
+    return 1;
 }
 ```
 
